@@ -1,0 +1,709 @@
+/home/jubm2720/tali/include/Consumables.h:12: warning: the name 'AirTank.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/Consumables.h:28: warning: the name 'MedKit.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/FixableRooms.h:12: warning: the name 'Reactor.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/GameMap.h:18: warning: the name 'Map.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/Ocean.h:152: warning: the name 'AirLock.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/QuestItems.h:12: warning: the name 'SeaCucumber.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/QuestItems.h:28: warning: the name 'Medal.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/RepairItems.h:14: warning: the name 'ReactorParts.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/RepairItems.h:30: warning: the name 'Patch.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/RepairItems.h:62: warning: the name 'Tools.h' supplied as the argument of the \class, \struct, \union, or \include command is not an input file
+/home/jubm2720/tali/include/UnderUs.h:22: warning: Compound UnderUs is not documented.
+/home/jubm2720/tali/include/RoomCommands.h:39: warning: Compound Down is not documented.
+/home/jubm2720/tali/include/Ocean.h:109: warning: Compound Reef is not documented.
+/home/jubm2720/tali/include/RepairItems.h:46: warning: Compound ShipParts is not documented.
+/home/jubm2720/tali/include/RoomCommands.h:85: warning: Compound Right is not documented.
+/home/jubm2720/tali/include/HallWay.h:16: warning: Compound HallWay is not documented.
+/home/jubm2720/tali/include/Ocean.h:156: warning: Compound SeaAirLock is not documented.
+/home/jubm2720/tali/include/ItemCommands.h:64: warning: Compound FillAir is not documented.
+/home/jubm2720/tali/include/RoomCommands.h:62: warning: Compound Left is not documented.
+/home/jubm2720/tali/include/ItemStorage.h:19: warning: Compound ItemStorage is not documented.
+/home/jubm2720/tali/include/PlayerData.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/CommandManger.h:47: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Inventory.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/CommandManger.h:34: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/CommandManger.h:24: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/CommandManger.h:25: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Coordinate.h:33: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Coordinate.h:38: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:72: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:67: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:77: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:82: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:119: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:67: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:62: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:72: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:139: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:134: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:47: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:129: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:124: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:181: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:42: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:83: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:32: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:130: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:37: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:78: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:186: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:93: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:135: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:125: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:88: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:171: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:176: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:140: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:47: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:19: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:20: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:43: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:44: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:67: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemStorage.h:29: warning: Found unknown command '\breif'
+/home/jubm2720/tali/include/MapGen.h:29: warning: Found unknown command '\breif'
+/home/jubm2720/tali/include/Medic.h:26: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:88: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:89: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:43: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:44: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:66: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:67: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:20: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:21: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcFact.h:27: warning: Found unknown command '\breif'
+/home/jubm2720/tali/include/Ocean.h:42: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:125: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:32: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:135: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:93: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:83: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:140: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:172: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:130: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:177: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:37: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:88: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:47: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:187: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:78: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:182: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:42: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:43: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:88: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:89: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:65: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:66: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:133: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:134: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:111: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:112: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:19: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:20: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:179: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:95: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:33: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:38: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:174: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:132: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:90: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:85: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:142: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:184: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:137: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:48: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:189: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:43: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:127: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:80: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:119: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:122: warning: parameters of member AirLock::FixRoom are not (all) documented
+/home/jubm2720/tali/include/FixableRooms.h:124: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:127: warning: parameters of member AirLock::UpWall are not (all) documented
+/home/jubm2720/tali/include/FixableRooms.h:129: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:132: warning: parameters of member AirLock::DownWall are not (all) documented
+/home/jubm2720/tali/include/FixableRooms.h:134: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:137: warning: parameters of member AirLock::RightWall are not (all) documented
+/home/jubm2720/tali/include/FixableRooms.h:139: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:142: warning: parameters of member AirLock::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/FixableRooms.h:117: warning: documented empty return type of AirLock::CheckRepairItems
+/home/jubm2720/tali/include/FixableRooms.h:117: warning: parameters of member AirLock::CheckRepairItems are not (all) documented
+/home/jubm2720/tali/include/FixableRooms.h:102: warning: documented empty return type of AirLock::GetInfo
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:30: warning: parameters of member Item::UpdateStackSize are not (all) documented
+/home/jubm2720/tali/include/Item.h:30: warning: return type of member Item::UpdateStackSize is not documented
+/home/jubm2720/tali/include/Item.h:43: warning: Member name (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:44: warning: Member stackSize (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Consumables.h:13: warning: Found unknown command '\created'
+/home/jubm2720/tali/include/Consumables.h:15: warning: Found unknown command '\created'
+/home/jubm2720/tali/include/Consumables.h:26: warning: documented empty return type of AirTank::GetDescription
+/home/jubm2720/tali/include/Rooms.h:80: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:83: warning: parameters of member Barracks::UpWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:85: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:88: warning: parameters of member Barracks::DownWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:90: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:93: warning: parameters of member Barracks::RightWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:95: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:98: warning: parameters of member Barracks::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Rooms.h:78: warning: documented empty return type of Barracks::GetInfo
+/home/jubm2720/tali/include/Rooms.h:127: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:130: warning: parameters of member Bridge::UpWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:132: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:135: warning: parameters of member Bridge::DownWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:137: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:140: warning: parameters of member Bridge::RightWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:142: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:145: warning: parameters of member Bridge::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Rooms.h:125: warning: documented empty return type of Bridge::GetInfo
+/home/jubm2720/tali/include/Captain.h:31: warning: parameters of member Captain::FinsihQuest are not (all) documented
+/home/jubm2720/tali/include/Npc.h:31: warning: return type of member Npc::GetName is not documented
+/home/jubm2720/tali/include/Npc.h:57: warning: Member name (variable) of class Npc is not documented.
+/home/jubm2720/tali/include/Npc.h:58: warning: Member item (variable) of class Npc is not documented.
+/home/jubm2720/tali/include/Captain.h:2: warning: Found unknown command '\modified'
+/home/jubm2720/tali/include/Captain.h:27: warning: documented empty return type of Captain::GetDialog
+/home/jubm2720/tali/include/Npc.h:54: warning: parameters of member Npc::Heal are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:78: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:81: warning: parameters of member Cave::UpWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:83: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:86: warning: parameters of member Cave::DownWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:88: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:91: warning: parameters of member Cave::RightWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:93: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:96: warning: parameters of member Cave::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Ocean.h:76: warning: documented empty return type of Cave::GetInfo
+/home/jubm2720/tali/include/Npc.h:31: warning: return type of member Npc::GetName is not documented
+/home/jubm2720/tali/include/Npc.h:57: warning: Member name (variable) of class Npc is not documented.
+/home/jubm2720/tali/include/Npc.h:58: warning: Member item (variable) of class Npc is not documented.
+/home/jubm2720/tali/include/Chef.h:2: warning: Found unknown command '\modified'
+/home/jubm2720/tali/include/Chef.h:30: warning: documented empty return type of Chef::FinsihQuest
+/home/jubm2720/tali/include/Chef.h:30: warning: parameters of member Chef::FinsihQuest are not (all) documented
+/home/jubm2720/tali/include/Chef.h:25: warning: documented empty return type of Chef::GetDialog
+/home/jubm2720/tali/include/Npc.h:54: warning: parameters of member Npc::Heal are not (all) documented
+/home/jubm2720/tali/include/Command.h:34: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/CommandManger.h:24: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/CommandManger.h:25: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/CommandManger.h:28: warning: parameters of member CommandManger::CommandManger are not (all) documented
+/home/jubm2720/tali/include/CommandManger.h:34: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/CommandManger.h:37: warning: parameters of member CommandManger::RunCommand are not (all) documented
+/home/jubm2720/tali/include/CommandManger.h:37: warning: return type of member CommandManger::RunCommand is not documented
+/home/jubm2720/tali/include/CommandManger.h:47: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/CommandManger.h:54: warning: Member gameMap (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:55: warning: Member playerData (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:56: warning: Member up (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:57: warning: Member down (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:58: warning: Member left (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:59: warning: Member right (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:60: warning: Member look (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:61: warning: Member fixRoom (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:62: warning: Member talk (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:63: warning: Member getQuest (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:64: warning: Member finishQuest (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:65: warning: Member pickUp (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:66: warning: Member drop (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:67: warning: Member fillAir (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:68: warning: Member heal (variable) of class CommandManger is not documented.
+/home/jubm2720/tali/include/CommandManger.h:47: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/CommandManger.h:51: warning: parameters of member CommandManger::GetItemName are not (all) documented
+/home/jubm2720/tali/include/Coordinate.h:24: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Coordinate.h:27: warning: parameters of member Coordinate::Coordinate are not (all) documented
+/home/jubm2720/tali/include/Coordinate.h:33: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Coordinate.h:36: warning: parameters of member Coordinate::OverRideCord are not (all) documented
+/home/jubm2720/tali/include/Coordinate.h:38: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Coordinate.h:41: warning: parameters of member Coordinate::UpdateX are not (all) documented
+/home/jubm2720/tali/include/Coordinate.h:49: warning: Member cord (variable) of class Coordinate is not documented.
+/home/jubm2720/tali/include/Coordinate.h:15: warning: Found unknown command '\the'
+/home/jubm2720/tali/include/RoomCommands.h:42: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:43: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:46: warning: parameters of member Down::Down are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/ItemCommands.h:43: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:44: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:47: warning: parameters of member Drop::Drop are not (all) documented
+/home/jubm2720/tali/include/ItemCommands.h:57: warning: parameters of member Drop::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:34: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/HallWay.h:125: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:128: warning: parameters of member Elevator::UpWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:130: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:133: warning: parameters of member Elevator::DownWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:135: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:138: warning: parameters of member Elevator::RightWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:140: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:143: warning: parameters of member Elevator::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/HallWay.h:123: warning: documented empty return type of Elevator::GetInfo
+/home/jubm2720/tali/include/Environment.h:40: warning: return type of member Environment::GetInfo is not documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:67: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:70: warning: parameters of member Environment::UpWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:70: warning: return type of member Environment::UpWall is not documented
+/home/jubm2720/tali/include/Environment.h:72: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:75: warning: parameters of member Environment::DownWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:75: warning: return type of member Environment::DownWall is not documented
+/home/jubm2720/tali/include/Environment.h:77: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:80: warning: parameters of member Environment::RightWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:80: warning: return type of member Environment::RightWall is not documented
+/home/jubm2720/tali/include/Environment.h:82: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:85: warning: parameters of member Environment::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:85: warning: return type of member Environment::LeftWall is not documented
+/home/jubm2720/tali/include/Environment.h:91: warning: return type of member Environment::SetContents is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:20: warning: Found unknown command '\the'
+/home/jubm2720/tali/include/ItemCommands.h:67: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:70: warning: parameters of member FillAir::FillAir are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/NpcCommands.h:20: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:21: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:24: warning: parameters of member FinishQuest::FinishQuest are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/RoomCommands.h:133: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:134: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:137: warning: parameters of member FixRoom::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/GameMap.h:60: warning: Member gameMap (variable) of class GameMap is not documented.
+/home/jubm2720/tali/include/GameMap.h:61: warning: Member mapGen (variable) of class GameMap is not documented.
+/home/jubm2720/tali/include/GameMap.h:20: warning: Found unknown command '\the'
+/home/jubm2720/tali/include/GameMap.h:45: warning: parameters of member GameMap::GetRoom are not (all) documented
+/home/jubm2720/tali/include/GameMap.h:51: warning: parameters of member GameMap::GetRoom are not (all) documented
+/home/jubm2720/tali/include/GameMap.h:57: warning: parameters of member GameMap::GetRoomContents are not (all) documented
+/home/jubm2720/tali/include/NpcCommands.h:66: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:67: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:70: warning: parameters of member GetQuest::GetQuest are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/HallWay.h:32: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:35: warning: parameters of member HallWay::UpWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:37: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:40: warning: parameters of member HallWay::DownWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:42: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:45: warning: parameters of member HallWay::RightWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:47: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:50: warning: parameters of member HallWay::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/HallWay.h:30: warning: documented empty return type of HallWay::GetInfo
+/home/jubm2720/tali/include/HallWay.h:78: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:81: warning: parameters of member HallwayEnd::UpWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:83: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:86: warning: parameters of member HallwayEnd::DownWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:88: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:91: warning: parameters of member HallwayEnd::RightWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:93: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:96: warning: parameters of member HallwayEnd::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/HallWay.h:76: warning: documented empty return type of HallwayEnd::GetInfo
+/home/jubm2720/tali/include/NpcCommands.h:88: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:89: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:92: warning: parameters of member Heal::Heal are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Rooms.h:33: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:36: warning: parameters of member Infirmary::UpWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:38: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:41: warning: parameters of member Infirmary::DownWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:43: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:46: warning: parameters of member Infirmary::RightWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:48: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:51: warning: parameters of member Infirmary::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Rooms.h:31: warning: documented empty return type of Infirmary::GetInfo
+/home/jubm2720/tali/include/Inventory.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/Inventory.h:29: warning: Member CheckReqItems(Inventory *inventory) (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:35: warning: Member HasItem(std::string name) (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:41: warning: Member HasItem(Item *item) (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:46: warning: Member GetItem(std::string itemName) (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:52: warning: Member GetItemName(std::string itemName) (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:57: warning: Member AddItem(Item *item) (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:62: warning: Member AddItem(ItemType item, std::string name) (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:67: warning: Member EmptySlot(std::string itemName) (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:72: warning: Member RemoveItem(std::string itemName) (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:76: warning: Member ListContents() (function) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:79: warning: Member empty (variable) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:80: warning: Member contents (variable) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:81: warning: Member itemFact (variable) of class Inventory is not documented.
+/home/jubm2720/tali/include/Inventory.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/Inventory.h:2: warning: Found unknown command '\modified'
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:30: warning: parameters of member Item::UpdateStackSize are not (all) documented
+/home/jubm2720/tali/include/Item.h:30: warning: return type of member Item::UpdateStackSize is not documented
+/home/jubm2720/tali/include/Item.h:43: warning: Member name (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:44: warning: Member stackSize (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:2: warning: Found unknown command '\created'
+/home/jubm2720/tali/include/Item.h:3: warning: Found unknown command '\last'
+/home/jubm2720/tali/include/ItemStorage.h:29: warning: Found unknown command '\breif'
+/home/jubm2720/tali/include/ItemStorage.h:29: warning: Found unknown command '\breif'
+/home/jubm2720/tali/include/ItemStorage.h:33: warning: parameters of member ItemStorage::CreateItem are not (all) documented
+/home/jubm2720/tali/include/RoomCommands.h:65: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:66: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:69: warning: parameters of member Left::Left are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/RoomCommands.h:111: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:112: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:115: warning: parameters of member Look::Look are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/MapGen.h:29: warning: Found unknown command '\breif'
+/home/jubm2720/tali/include/MapGen.h:17: warning: Found unknown command '\Gets'
+/home/jubm2720/tali/include/MapGen.h:21: warning: Found unknown command '\Gets'
+/home/jubm2720/tali/include/MapGen.h:29: warning: Found unknown command '\breif'
+/home/jubm2720/tali/include/MapGen.h:33: warning: parameters of member MapGen::CreateMapLocation are not (all) documented
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:30: warning: parameters of member Item::UpdateStackSize are not (all) documented
+/home/jubm2720/tali/include/Item.h:30: warning: return type of member Item::UpdateStackSize is not documented
+/home/jubm2720/tali/include/Item.h:43: warning: Member name (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:44: warning: Member stackSize (variable) of class Item is not documented.
+/home/jubm2720/tali/include/QuestItems.h:42: warning: documented empty return type of Medal::GetDescription
+/home/jubm2720/tali/include/Medic.h:26: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Medic.h:29: warning: parameters of member Medic::Heal are not (all) documented
+/home/jubm2720/tali/include/Npc.h:31: warning: return type of member Npc::GetName is not documented
+/home/jubm2720/tali/include/Npc.h:57: warning: Member name (variable) of class Npc is not documented.
+/home/jubm2720/tali/include/Npc.h:58: warning: Member item (variable) of class Npc is not documented.
+/home/jubm2720/tali/include/Medic.h:2: warning: Found unknown command '\modified'
+/home/jubm2720/tali/include/Npc.h:44: warning: parameters of member Npc::FinsihQuest are not (all) documented
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:30: warning: parameters of member Item::UpdateStackSize are not (all) documented
+/home/jubm2720/tali/include/Item.h:30: warning: return type of member Item::UpdateStackSize is not documented
+/home/jubm2720/tali/include/Item.h:43: warning: Member name (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:44: warning: Member stackSize (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Consumables.h:42: warning: documented empty return type of MedKit::GetDescription
+/home/jubm2720/tali/include/Npc.h:31: warning: return type of member Npc::GetName is not documented
+/home/jubm2720/tali/include/Npc.h:57: warning: Member name (variable) of class Npc is not documented.
+/home/jubm2720/tali/include/Npc.h:58: warning: Member item (variable) of class Npc is not documented.
+/home/jubm2720/tali/include/Npc.h:44: warning: parameters of member Npc::FinsihQuest are not (all) documented
+/home/jubm2720/tali/include/Npc.h:54: warning: parameters of member Npc::Heal are not (all) documented
+/home/jubm2720/tali/include/NpcFact.h:27: warning: Found unknown command '\breif'
+/home/jubm2720/tali/include/NpcFact.h:27: warning: Found unknown command '\breif'
+/home/jubm2720/tali/include/NpcFact.h:31: warning: parameters of member NpcFact::CreateNpc are not (all) documented
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:30: warning: parameters of member Item::UpdateStackSize are not (all) documented
+/home/jubm2720/tali/include/Item.h:30: warning: return type of member Item::UpdateStackSize is not documented
+/home/jubm2720/tali/include/Item.h:43: warning: Member name (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:44: warning: Member stackSize (variable) of class Item is not documented.
+/home/jubm2720/tali/include/RepairItems.h:44: warning: documented empty return type of Patch::GetDescription
+/home/jubm2720/tali/include/ItemCommands.h:19: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:20: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/ItemCommands.h:23: warning: parameters of member PickUp::PickUp are not (all) documented
+/home/jubm2720/tali/include/ItemCommands.h:33: warning: parameters of member PickUp::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:34: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/PlayerData.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/PlayerData.h:23: warning: Member GetInventory() (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:28: warning: Member GetCords() (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:33: warning: Member Die() (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:37: warning: Member UpdateOxygen(int damage) (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:41: warning: Member UpdateHealth(int damage) (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:45: warning: Member addScore() (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:49: warning: Member FillOxygen() (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:54: warning: Member GetOxygen() (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:59: warning: Member GetHealth() (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:64: warning: Member GetScore() (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:69: warning: Member Dead() (function) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:72: warning: Member health (variable) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:73: warning: Member oxygen (variable) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:74: warning: Member score (variable) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:75: warning: Member dead (variable) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:76: warning: Member cords (variable) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:77: warning: Member inventory (variable) of class PlayerData is not documented.
+/home/jubm2720/tali/include/PlayerData.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/PlayerData.h:2: warning: Found unknown command '\modified'
+/home/jubm2720/tali/include/FixableRooms.h:47: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:50: warning: parameters of member Reactor::FixRoom are not (all) documented
+/home/jubm2720/tali/include/FixableRooms.h:62: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:65: warning: parameters of member Reactor::DownWall are not (all) documented
+/home/jubm2720/tali/include/FixableRooms.h:67: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:70: warning: parameters of member Reactor::RightWall are not (all) documented
+/home/jubm2720/tali/include/FixableRooms.h:72: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:75: warning: parameters of member Reactor::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/FixableRooms.h:45: warning: documented empty return type of Reactor::CheckRepairItems
+/home/jubm2720/tali/include/FixableRooms.h:45: warning: parameters of member Reactor::CheckRepairItems are not (all) documented
+/home/jubm2720/tali/include/FixableRooms.h:30: warning: documented empty return type of Reactor::GetInfo
+/home/jubm2720/tali/include/FixableRooms.h:59: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/FixableRooms.h:60: warning: documented empty return type of Reactor::UpWall
+/home/jubm2720/tali/include/FixableRooms.h:60: warning: parameters of member Reactor::UpWall are not (all) documented
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:30: warning: parameters of member Item::UpdateStackSize are not (all) documented
+/home/jubm2720/tali/include/Item.h:30: warning: return type of member Item::UpdateStackSize is not documented
+/home/jubm2720/tali/include/Item.h:43: warning: Member name (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:44: warning: Member stackSize (variable) of class Item is not documented.
+/home/jubm2720/tali/include/RepairItems.h:15: warning: Found unknown command '\created'
+/home/jubm2720/tali/include/RepairItems.h:17: warning: Found unknown command '\created'
+/home/jubm2720/tali/include/RepairItems.h:28: warning: documented empty return type of ReactorParts::GetDescription
+/home/jubm2720/tali/include/Ocean.h:125: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:128: warning: parameters of member Reef::UpWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:130: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:133: warning: parameters of member Reef::DownWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:135: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:138: warning: parameters of member Reef::RightWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:140: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:143: warning: parameters of member Reef::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Ocean.h:123: warning: documented empty return type of Reef::GetInfo
+/home/jubm2720/tali/include/RoomCommands.h:88: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:89: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:92: warning: parameters of member Right::Right are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Ocean.h:172: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:175: warning: parameters of member SeaAirLock::UpWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:177: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:180: warning: parameters of member SeaAirLock::DownWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:182: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:185: warning: parameters of member SeaAirLock::RightWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:187: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:190: warning: parameters of member SeaAirLock::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Ocean.h:170: warning: documented empty return type of SeaAirLock::GetInfo
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:30: warning: parameters of member Item::UpdateStackSize are not (all) documented
+/home/jubm2720/tali/include/Item.h:30: warning: return type of member Item::UpdateStackSize is not documented
+/home/jubm2720/tali/include/Item.h:43: warning: Member name (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:44: warning: Member stackSize (variable) of class Item is not documented.
+/home/jubm2720/tali/include/QuestItems.h:13: warning: Found unknown command '\created'
+/home/jubm2720/tali/include/QuestItems.h:15: warning: Found unknown command '\created'
+/home/jubm2720/tali/include/QuestItems.h:26: warning: documented empty return type of SeaCucumber::GetDescription
+/home/jubm2720/tali/include/Ocean.h:32: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:35: warning: parameters of member SeaPlains::UpWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:37: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:40: warning: parameters of member SeaPlains::DownWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:42: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:45: warning: parameters of member SeaPlains::RightWall are not (all) documented
+/home/jubm2720/tali/include/Ocean.h:47: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Ocean.h:50: warning: parameters of member SeaPlains::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Ocean.h:30: warning: documented empty return type of SeaPlains::GetInfo
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:30: warning: parameters of member Item::UpdateStackSize are not (all) documented
+/home/jubm2720/tali/include/Item.h:30: warning: return type of member Item::UpdateStackSize is not documented
+/home/jubm2720/tali/include/Item.h:43: warning: Member name (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:44: warning: Member stackSize (variable) of class Item is not documented.
+/home/jubm2720/tali/include/RepairItems.h:60: warning: documented empty return type of ShipParts::GetDescription
+/home/jubm2720/tali/include/Rooms.h:174: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:177: warning: parameters of member Storage::UpWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:179: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:182: warning: parameters of member Storage::DownWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:184: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:187: warning: parameters of member Storage::RightWall are not (all) documented
+/home/jubm2720/tali/include/Rooms.h:189: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Rooms.h:192: warning: parameters of member Storage::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Rooms.h:172: warning: documented empty return type of Storage::GetInfo
+/home/jubm2720/tali/include/NpcCommands.h:43: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:44: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/NpcCommands.h:47: warning: parameters of member Talk::Talk are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Item.h:27: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Item.h:30: warning: parameters of member Item::UpdateStackSize are not (all) documented
+/home/jubm2720/tali/include/Item.h:30: warning: return type of member Item::UpdateStackSize is not documented
+/home/jubm2720/tali/include/Item.h:43: warning: Member name (variable) of class Item is not documented.
+/home/jubm2720/tali/include/Item.h:44: warning: Member stackSize (variable) of class Item is not documented.
+/home/jubm2720/tali/include/RepairItems.h:80: warning: documented empty return type of Tools::GetDescription
+/home/jubm2720/tali/include/HallWay.h:171: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:174: warning: parameters of member TopAirLock::UpWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:176: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:179: warning: parameters of member TopAirLock::DownWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:181: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:184: warning: parameters of member TopAirLock::RightWall are not (all) documented
+/home/jubm2720/tali/include/HallWay.h:186: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/HallWay.h:189: warning: parameters of member TopAirLock::LeftWall are not (all) documented
+/home/jubm2720/tali/include/Environment.h:52: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:55: warning: return type of member Environment::GetNPC is not documented
+/home/jubm2720/tali/include/Environment.h:57: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/Environment.h:60: warning: parameters of member Environment::FixRoom are not (all) documented
+/home/jubm2720/tali/include/Environment.h:60: warning: return type of member Environment::FixRoom is not documented
+/home/jubm2720/tali/include/Environment.h:93: warning: Member name (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:94: warning: Member fixed (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:95: warning: Member inventory (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:96: warning: Member requiredItems (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/Environment.h:97: warning: Member npc (variable) of class Environment is not documented.
+/home/jubm2720/tali/include/HallWay.h:169: warning: documented empty return type of TopAirLock::GetInfo
+/home/jubm2720/tali/include/UnderUs.h:21: warning: Found unknown command '\Gets'
+/home/jubm2720/tali/include/UnderUs.h:70: warning: Member gameMap (variable) of class UnderUs is not documented.
+/home/jubm2720/tali/include/UnderUs.h:71: warning: Member player (variable) of class UnderUs is not documented.
+/home/jubm2720/tali/include/UnderUs.h:72: warning: Member commandHandler (variable) of class UnderUs is not documented.
+/home/jubm2720/tali/include/UnderUs.h:73: warning: Member playing (variable) of class UnderUs is not documented.
+/home/jubm2720/tali/include/UnderUs.h:74: warning: Member input (variable) of class UnderUs is not documented.
+/home/jubm2720/tali/include/RoomCommands.h:19: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:20: warning: Found unknown command '\parm'
+/home/jubm2720/tali/include/RoomCommands.h:23: warning: parameters of member Up::Up are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: parameters of member Command::Run are not (all) documented
+/home/jubm2720/tali/include/Command.h:40: warning: return type of member Command::Run is not documented
+/home/jubm2720/tali/include/Command.h:44: warning: Member gameMap (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:45: warning: Member playerData (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Command.h:46: warning: Member Coordinates (variable) of class Command is not documented.
+/home/jubm2720/tali/include/Inventory.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/PlayerData.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/Inventory.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/PlayerData.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/Inventory.h:1: warning: Found unknown command '\Author'
+/home/jubm2720/tali/include/PlayerData.h:1: warning: Found unknown command '\Author'
