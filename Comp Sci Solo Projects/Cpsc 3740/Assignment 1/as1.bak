@@ -1,0 +1,67 @@
+#lang racket
+#|  About
+    Assignment 1 for CPSC 3740
+    - learning how to use/code racket
+|#
+
+#| question 1
+    
+    write a function which looks in arra y to see if object x is present in that array
+    if it is returns #t (true) or returns #f(false) if it's not
+
+    things used
+    - define used to define function
+    - cond 
+        - rackets form of a switch statement
+        - runs through differnt conditions define in it's body
+    - null? 
+        - check  if list y is empty
+    - equal? 
+        - checks if object x is equal to object y
+    - list? 
+        - checks if objects a list
+    - or
+        - checks if it's any one of the given conditions
+    - else
+        - handles any codition not covers
+    - car
+        - Returns the first element of a pair (this case y).
+    - cdr
+        - Returns the second element of a pair (this case y).
+|# 
+(define (mymember? x y)
+    (cond
+        ;check if y is empty list, sense that wouild make x not be presnt 
+        ;return #f(flase)
+        ((null? y)
+            #f
+        )
+        ;check if x is eqaul (using equal?) to y if so return #t 
+        ;(ture) otherwise move on
+        ((equal? x (car y)) 
+            #t
+        ) 
+        ;check if y is a sublist by using list?
+        ; if it is recursivly run through the sublist 
+        ((list? (car y))
+            (or (mymember? x (car y)); chekcing if x is member of current sublist
+                (mymember? x (cdr y));check rest of the list
+            )            
+        )
+        ;check rest of the list
+        (else(mymember? x (cdr y)))
+    )
+)
+
+#|Testing question 1
+    - display 
+        - acts as rackets Cout
+|#
+;testing if #t ture case works
+(display (mymember?’(4 5(6)) ’(1 2 3(4 5 (6)))))
+(display (mymember?’1 ’(1 2 3(4 5 (6)))))
+;testing if #f false case works
+(display (mymember?’4 ’(1 2 3(4 5 (6)))))
+
+(display (mymember?’4 ’()))
+

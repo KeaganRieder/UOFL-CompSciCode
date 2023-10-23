@@ -1,0 +1,65 @@
+#ifndef RESTAURANTH
+#define RESTAURANTH
+#include <iostream>
+#include <string>
+using namespace std;
+
+const int ARRAY_SIZE = 5;
+
+class RestaurantG{
+public:
+
+  //default costructer cretaes and empty RestaurantG object
+  //precondition:none
+  //postcondition: data memebers name and cusineName are set to unkown
+  //array rating is set to 0
+  RestaurantG();
+
+  //precondition: none
+  //postCondition: a dateRestaurauntG object is cretaed with data members name,
+  //cusine and rating
+  RestaurantG(string name, string cusineName);//constructor
+
+  //gets name of restaurant
+  //precondition:none
+  //postcondition:returns the name of the restaurantG object
+  string getName();
+
+  //gets the cusine of the resaurant
+  //precondition:none
+  //postcondition: returns the cuisine of the Restaurant object
+  string  getCuisine();
+
+  //adds a custoimer rating to the resteraunt after checking if it was valid
+  //precondition:verify that the parameter num is between 1 and 5,
+  //postcondition:if teh number is in range increment the number of customers rating
+  //the resteraunt that match the input parameter
+  void addCustomerRating(int num);
+
+  //finds the average rating
+  //precondition:none
+  //postcondition: returns the average customer rating of teh resteraunt
+  float getAverage();
+
+  //print resteraunt infor out to user
+  //precondition:none
+  //postcondition: displays the resteraunt's info
+  void printResInfo();
+
+private:
+  //sets the name of a restaurant
+  //precondition:none
+  //postcondition:sets the name of the RestaurantG object to paramiter newName
+  void setName(string name);
+
+  //sets the cuisine of a resurant
+  //precondition:none
+  //postcondition: sets the cuisine of restaurantG object to parameter newCuisine
+  void setCuisine(string cusineName);
+
+  string resName;
+  string cusine;
+  int veiwersRating[ARRAY_SIZE];
+  double averageRating;
+};
+#endif
