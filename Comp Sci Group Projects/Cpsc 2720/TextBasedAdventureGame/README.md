@@ -1,6 +1,7 @@
 # About Project
 
 * Team roles are present in /docs/design/TaliDesignFinal_user.pdf
+  
 * project class UML diagram can be found here: /docs/design/Implementation-DesignDocument.pdf
 
 Tasks I did during the span of this project were:
