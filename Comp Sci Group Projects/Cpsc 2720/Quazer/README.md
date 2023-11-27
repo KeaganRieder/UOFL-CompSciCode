@@ -4,8 +4,8 @@ Project for CPSC 2720, to re-create the game Quazer from the game Mass Effect 1 
 
 Group:  Abdqayyum Akano,  Raheem Mir, and Keagan Rieder
 
-The roles I played in this project are as follows:
-- work on the classes Player and QuaizerIO
+My tasks in this project are as followed:
+- worked on the classes Player and QuaizerIO
 - managed the group and ensured everyone met deadlines set
   by the group during meetings
 - assisted other members in bug fixing and figuring out implementation
